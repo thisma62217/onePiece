@@ -1,0 +1,107 @@
+header{
+ 	background-image: linear-gradient(#0098d9,#173ea5);	
+ 	width: 100%;
+	height: 20%;
+	margin-bottom: 0.5em;
+	margin-left: -0.5em;
+	margin-top: -0.5em;
+	padding-right:1em;
+}
+body{
+    background-color: grey;
+
+}
+#scrollUp{
+	position: fixed;
+	bottom : 10px;
+	opacity: 0.5;
+
+}
+#arcPh{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#gears{
+	width: 700px;
+	margin-bottom: 2em;
+	margin-top: 3em;
+
+}
+#mur{
+    background-image:url('avis/mur.jpg');
+}
+#banniere{
+	width: 30%;
+	margin-left: 35%;
+}
+#onePiece{
+	width: 100%;
+
+}
+iframe{
+	margin-left:10em;
+
+}
+.page{
+	font-family: Arial ;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+}
+.para{
+	text-align: justify;
+}
+.lien{
+	width: 5em;
+	height: 6em;
+	background-image: linear-gradient(#0098d9,#173ea5);	
+	color: white;
+	text-decoration: none;
+	padding: 0.5em;
+	margin-top: 0.2em;
+
+}
+#arc{
+	background-image: linear-gradient(#FF0000,#FFA500,#FFFF00,#008000,#0000FF,#000080,#800080);	
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.photoConcour{
+	width: 300px;
+	margin-left: 5em;
+}
+#texte{
+	text-align: justify;
+	font-size: 1.1em;
+	font-family: Trebuchet MS ;
+
+}
+h2{
+	text-align: center;
+	font-family: Comic Sans MS ;
+}
+h1{
+	font-size: 3em;
+	
+}
+td{
+	padding-right:10em;
+
+}
+.avis{
+	width: 22em;
+	padding: 0.2em;
+	margin-top: 2em;
+
+
+}
+h2 .bleu{
+	color:blue;
+}
+#text{
+	text-align: center;
+	font-family: Comic Sans MS ;
+}
